@@ -3,12 +3,10 @@ package pl.coderslab.JavaExercisesDayTwoObjectOrientPrograming.Attributes;
 public class AccessModifier {
 
     public String publicAttribute;
-
-
+    public String protectedAttribute;
     private String privateAttribute;
 
 
-    protected String protectedAttribute;
 
 
     public void setPrivateAttribute(String value) {

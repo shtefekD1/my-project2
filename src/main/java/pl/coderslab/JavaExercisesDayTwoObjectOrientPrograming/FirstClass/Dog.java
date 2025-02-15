@@ -1,4 +1,5 @@
-package pl.coderslab.JavaExercisesDayTwoObjectOrientPrograming.Attributes.FirstClass;
+package pl.coderslab.JavaExercisesDayTwoObjectOrientPrograming.FirstClass;
+
 public class Dog {
     private String breed;
     private String name;
